@@ -8,7 +8,7 @@ enable-magisk-update = true   # set this to false if you do not want to receive 
 
 [YouTube]
 build-mode = "both"
-excluded-patches = "'Custom branding icon YouTube' 'Custom branding name YouTube'"
+excluded-patches = "'Custom branding icon YouTube' 'Custom branding name YouTube' 'Tablet mini player' 'Hide autoplay button' 'Hide captions button' 'Hide video action buttons' 'Hide cast button' 'Spoof app version' 'Enable tablet layout' 'Hide info cards' 'Hide endscreen cards' 'Disable fullscreen ambient mode' 'Hide seekbar' 'Hide timestamp' 'Disable suggested video end screen' 'Wide searchbar' 'Seekbar tapping' 'Disable precise seeking gesture' 'Always autorepeat' 'Client spoof' 'Spoof device dimensions' 'Disable zoom haptics'"
 included-patches = "'Add splash animation' 'MaterialYou'"
 version = "auto"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
